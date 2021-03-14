@@ -6,6 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
+import org.d3if0029.hitungbmi.R
 import org.d3if0029.hitungbmi.data.KategoriBmi
 import org.d3if0029.hitungbmi.databinding.FragmentSaranBinding
 
